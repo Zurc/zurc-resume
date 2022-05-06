@@ -24,6 +24,13 @@ function Experience() {
               <h4 className="timeline__subtitle">{item.subtitle}</h4>
               <p className="timeline__date">{item.date}</p>
               <p className="timeline__text">{item.detail}</p>
+              <p>
+                {item.tags.map((tag, index) => (
+                  <span className="timeline__tag" key={index}>
+                    {tag}
+                  </span>
+                ))}
+              </p>
             </VerticalTimelineElement>
           ))}
         </VerticalTimeline>
