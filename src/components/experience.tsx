@@ -10,21 +10,19 @@ function Experience() {
   return (
     <section className="section education" id="education">
       <div>
-        <h1>Basic Timeline</h1>
-        <h6>Some subtitle here</h6>
+        <h1>Experience</h1>
         <VerticalTimeline layout="1-column">
           {experience.map((item, index) => (
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
               key={index}
               contentStyle={{ background: '#fafaf6' }}
-              date={item.date}
-              dateClassName="education-date"
               iconStyle={{ background: '#f5eada' }}
             >
-              <h3 className="vertical-timeline-element-title">{item.title}</h3>
-              <h4 className="vertical-timeline-element-subtitle">Miami, FL</h4>
-              <p>{item.detail}</p>
+              <h3 className="timeline__title">{item.title}</h3>
+              <h4 className="timeline__subtitle">{item.subtitle}</h4>
+              <p className="timeline__date">{item.date}</p>
+              <p className="timeline__text">{item.detail}</p>
             </VerticalTimelineElement>
           ))}
         </VerticalTimeline>

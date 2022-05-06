@@ -1,0 +1,21 @@
+.timeline__title {
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.timeline__subtitle {
+  color: tan;
+  margin: 5px 0;
+}
+
+.timeline__date {
+  color: rgb(150, 150, 150);
+}
+
+.timeline__text {
+  color: rgb(150, 150, 150);
+  font-weight: 200;
+  letter-spacing: 1px;
+  word-spacing: 5px;
+}
