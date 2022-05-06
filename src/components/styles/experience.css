@@ -15,6 +15,10 @@ h1 {
   text-align: center;
 }
 
+.timeline__experience {
+  background: #f5eada;
+}
+
 .timeline__title {
   margin: 0;
   text-transform: uppercase;
