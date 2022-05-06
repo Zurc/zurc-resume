@@ -9,7 +9,7 @@ import './styles/experience.css';
 
 function Experience() {
   return (
-    <section className="section education" id="education">
+    <section className="timeline__experience" id="experience">
       <div>
         <h1>Experience</h1>
         <VerticalTimeline layout="1-column">
