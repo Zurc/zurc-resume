@@ -5,6 +5,7 @@ import {
 } from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 import experience from './data/experience.js';
+import './styles/experience.css';
 
 function Experience() {
   return (
