@@ -1,3 +1,12 @@
+.vertical-timeline-element-content .vertical-timeline-element-date {
+  padding: 0;
+}
+.vertical-timeline-element-icon {
+  width: 20px;
+  height: 20px;
+  left: 10px;
+}
+
 h1 {
   border: #fff solid 4px;
   padding: 5px;
@@ -6,15 +15,10 @@ h1 {
   text-align: center;
 }
 
-.timeline__experience {
-  background: #f5eada;
-}
-
 .timeline__title {
   margin: 0;
   text-transform: uppercase;
   font-weight: 400;
-  font-size: 18px;
 }
 
 .timeline__subtitle {
@@ -29,7 +33,7 @@ h1 {
 .timeline__text {
   color: rgb(150, 150, 150);
   font-weight: 200;
-  font-size: 14px;
+  font-size: 12px;
   letter-spacing: 1px;
   word-spacing: 5px;
 }
@@ -44,7 +48,7 @@ h1 {
   background: #f5f5f5;
   border: 1px solid #dbdbdb;
   border-radius: 50px;
-  font-size: 12px;
+  font-size: 8px;
   text-transform: uppercase;
   margin: 0 4px 4px 0;
   padding: 0.5em 1em;

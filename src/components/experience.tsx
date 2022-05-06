@@ -20,9 +20,10 @@ function Experience() {
               contentStyle={{ background: '#fafaf6' }}
               iconStyle={{ background: '#f5eada' }}
             >
-              <h3 className="timeline__title">{item.title}</h3>
-              <h4 className="timeline__subtitle">{item.subtitle}</h4>
-              <p className="timeline__date">{item.date}</p>
+              <span className="timeline__title">{item.title}</span> &nbsp;&nbsp;
+              <span className="timeline__subtitle">{item.subtitle}</span>
+              &nbsp;&nbsp;
+              <span className="timeline__date">{item.date}</span>
               <p className="timeline__text">{item.detail}</p>
               <p className="timeline__tags">
                 {item.tags.map((tag, index) => (
