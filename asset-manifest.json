@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zurc-resume/static/css/main.caa5cde9.css",
+    "main.css": "/zurc-resume/static/css/main.f4565731.css",
     "main.js": "/zurc-resume/static/js/main.540875a4.js",
     "static/js/787.27f092c7.chunk.js": "/zurc-resume/static/js/787.27f092c7.chunk.js",
     "index.html": "/zurc-resume/index.html",
-    "main.caa5cde9.css.map": "/zurc-resume/static/css/main.caa5cde9.css.map",
+    "main.f4565731.css.map": "/zurc-resume/static/css/main.f4565731.css.map",
     "main.540875a4.js.map": "/zurc-resume/static/js/main.540875a4.js.map",
     "787.27f092c7.chunk.js.map": "/zurc-resume/static/js/787.27f092c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.caa5cde9.css",
+    "static/css/main.f4565731.css",
     "static/js/main.540875a4.js"
   ]
 }
