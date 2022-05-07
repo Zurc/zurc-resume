@@ -5,18 +5,26 @@
   width: 20px;
   height: 20px;
   left: 10px;
+  top: 10px;
 }
 
-h1 {
+.timeline__experience > div > h1 {
   border: #fff solid 4px;
   padding: 5px;
-  width: 150px;
   margin: 0;
+  width: 150px;
   text-align: center;
 }
 
 .timeline__experience {
   background: #f5eada;
+  padding: 60px 10px;
+  width: 100%;
+}
+
+.timeline__experience > div {
+  margin: 0 auto;
+  max-width: 1170px;
 }
 
 .timeline__title {
