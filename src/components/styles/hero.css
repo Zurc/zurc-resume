@@ -19,8 +19,8 @@
   margin: 0 auto;
   display: grid;
   align-items: center;
-  grid-gap: 40px;
-  grid-template-rows: 1fr 1fr;
+  grid-gap: 20px;
+  grid-template-rows: 1fr auto;
   grid-template-areas:
     'hero__content'
     'hero__image';
