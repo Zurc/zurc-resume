@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/zurc-resume/static/css/main.22507ec4.css",
-    "main.js": "/zurc-resume/static/js/main.11594399.js",
+    "main.css": "/zurc-resume/static/css/main.480c1f60.css",
+    "main.js": "/zurc-resume/static/js/main.7b6d274d.js",
     "static/js/787.27f092c7.chunk.js": "/zurc-resume/static/js/787.27f092c7.chunk.js",
     "static/media/zurc.jpg": "/zurc-resume/static/media/zurc.a37a8b335f988b6320d4.jpg",
     "index.html": "/zurc-resume/index.html",
-    "main.22507ec4.css.map": "/zurc-resume/static/css/main.22507ec4.css.map",
-    "main.11594399.js.map": "/zurc-resume/static/js/main.11594399.js.map",
+    "main.480c1f60.css.map": "/zurc-resume/static/css/main.480c1f60.css.map",
+    "main.7b6d274d.js.map": "/zurc-resume/static/js/main.7b6d274d.js.map",
     "787.27f092c7.chunk.js.map": "/zurc-resume/static/js/787.27f092c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22507ec4.css",
-    "static/js/main.11594399.js"
+    "static/css/main.480c1f60.css",
+    "static/js/main.7b6d274d.js"
   ]
 }
