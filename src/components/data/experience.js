@@ -7,6 +7,7 @@ const experience = [
     subtitle: 'Wealth Dynamix',
     detail:
       'Building a Client Lifecycle Management Solution for Wealth Management, Institutional Asset Management and Private Banking Firms.',
+      // more info here: https://wealth-dynamix.com/clmi/
     tags: [
       'angular 12',
       'typescript',
